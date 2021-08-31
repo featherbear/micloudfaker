@@ -1,0 +1,10 @@
+[package]
+name = "micloudfaker"
+version = "0.1.0"
+edition = "2018"
+authors = [ "unrelentingtech <hello@unrelenting.technology>" ]
+license = "Unlicense"
+homepage = "https://github.com/unrelentingtech/micloudfaker"
+repository = "https://github.com/unrelentingtech/micloudfaker"
+
+[dependencies]
